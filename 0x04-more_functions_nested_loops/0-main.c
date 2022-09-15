@@ -8,11 +8,11 @@
  */
 int main(void)
 {
-	char i;
+	char c;
 
-	i = 'A';
-	printf("%i: %d\n", i, _isupper(i));
-	i = 'a';
-	printf("%i: %d\n", i, _isupper(i));
+	c = 'A';
+	printf("%c: %d\n", c, _isupper(c));
+	c = 'a';
+	printf("%c: %d\n", c, _isupper(c));
 	return (0);
 }
