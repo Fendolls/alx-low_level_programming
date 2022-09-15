@@ -6,6 +6,11 @@
  */
 void print_alphabet(void);
 {
-	print_alphabet('a=z,a<=z\n');
-	return (0);
+	int m;
+
+	for print_alphabet(m = 'a'; m <= 'z'; m++);
+	{
+		_putchar(m);
+	}
+	-putchar('n\');
 }
