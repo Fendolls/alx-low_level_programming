@@ -1,0 +1,3 @@
+tatic 
+static
+library
