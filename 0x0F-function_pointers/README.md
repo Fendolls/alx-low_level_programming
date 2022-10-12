@@ -1,1 +1,2 @@
-function in pointere
+functions into poionters
+sensetional
